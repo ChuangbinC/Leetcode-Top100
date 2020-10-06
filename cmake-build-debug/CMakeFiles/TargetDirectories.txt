@@ -1,3 +1,0 @@
-/home/ccb/Code/C++/Leetcode-Top100/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/ccb/Code/C++/Leetcode-Top100/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/ccb/Code/C++/Leetcode-Top100/cmake-build-debug/CMakeFiles/Leetcode_Top100.dir
